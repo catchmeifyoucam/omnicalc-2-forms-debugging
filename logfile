@@ -1,0 +1,2 @@
+2025-08-31 21:28:57.632 UTC [31760] FATAL:  lock file "postmaster.pid" already exists
+2025-08-31 21:28:57.632 UTC [31760] HINT:  Is another postmaster (PID 31533) running in data directory "/workspaces/.pgsql/data"?
